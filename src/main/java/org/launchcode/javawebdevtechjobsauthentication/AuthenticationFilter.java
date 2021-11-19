@@ -1,7 +1,7 @@
 package org.launchcode.javawebdevtechjobsauthentication;
 
 import org.launchcode.javawebdevtechjobsauthentication.controllers.AuthenticationController;
-import org.launchcode.javawebdevtechjobsauthentication.data.UserRepository;
+import org.launchcode.javawebdevtechjobsauthentication.models.data.UserRepository;
 import org.launchcode.javawebdevtechjobsauthentication.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
